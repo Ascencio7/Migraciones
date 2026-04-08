@@ -14,9 +14,6 @@
 - Este repositorio contiene **una aplicación de consola con C#** que implementa la migración a SQL Server. 
 
 - La aplicación se conecta a una base de datos SQL Server para migrar datos. 
-
-- La base de datos se actualiza en tiempo real, lo que permite una gestión eficiente de los pedidos. 
-
 --- 
 
 ## 🛠️ Tecnologías Utilizadas
