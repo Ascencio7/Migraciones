@@ -76,14 +76,14 @@ dotnet build
 ```
 ---
 
-## Consulta a SQL Server: Tablas vacías
+## Consulta SQL Server: Tablas vacías
 <figure>
-  <img src="/images/consultaSQL.png" alt="Captura de consulta SQL" style="max-width: 600px; display:block; margin:auto;">
+  <img src="./images/migracion.png" alt="Captura de consulta SQL" style="max-width: 600px; display:block; margin:auto;">
 </figure>
 
 ## Consulta SQL Server: Inserciones de prueba
 <figure>
-  <img src="/images/pedidosActivos.png" alt="Captura de pedidos activos" style="max-width: 600px; display:block; margin:auto;">
+  <img src="./images/datosMigrados.png" alt="Captura de inserciones" style="max-width: 600px; display:block; margin:auto;">
 </figure>
 
 <br>
