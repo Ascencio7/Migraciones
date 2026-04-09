@@ -63,7 +63,7 @@ dotnet ef migrations add AddCarreraConstraint
 4. Aplicar la migración a la base de datos SQL Server
 
 ```bash
-python.exe -m pip install --upgrade pip
+dotnet ef database update
 ```
 
 5. Finalmente se compila el proyecto
